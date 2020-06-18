@@ -13,6 +13,6 @@ Problem Statement: It is a classification problem where we have to predict wheth
 
 -Lesser the amount to be paid monthly to repay the loan, higher the chances of loan approval
 
-2.After model building XGBoost classifiers leads to better predictions
+2.After model building XGBoost classifier leads to better predictions
 
 
