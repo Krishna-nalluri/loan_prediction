@@ -1,4 +1,4 @@
-# loan_prediction
+# Loan_prediction
 Problem Statement: It is a classification problem where we have to predict whether a loan would be approved or not.
 
 1.Some of the factors can affect the loan approval:
